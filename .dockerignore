@@ -1,0 +1,39 @@
+
+# Environment and Deps
+venv/
+node_modules/
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+# Git
+.git/
+.gitignore
+
+# Local Data
+db.sqlite3
+media/
+*.log
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Deployment configs
+DEPLOY.md
+implementation_plan.md
+task.md
+
+# Editor Configs
+.idea/
+.vscode/
+
+# Junk Files
+*.lnk
+*.pdf
+*.docx
+*.pptx
+*.zip
+*.rar
+*.exe
