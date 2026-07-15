@@ -1,7 +1,3 @@
-# Deployment Guide for Google Cloud Run
-
-This guide outlines the steps to deploy your Django application to Google Cloud Run with a Neon (PostgreSQL) database.
-
 ## Prerequisites
 
 1.  **Google Cloud SDK**: Install and initialize the [gcloud CLI](https://cloud.google.com/sdk/docs/install).
