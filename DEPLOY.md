@@ -1,8 +1,3 @@
-## Prerequisites
-
-1.  **Google Cloud SDK**: Install and initialize the [gcloud CLI](https://cloud.google.com/sdk/docs/install).
-2.  **Neon Database**: Create a project in [Neon](https://neon.tech/) and get the connection string.
-3.  **Docker**: Ensure Docker is installed and running (for local builds/testing).
 
 ## 1. Prepare Environment Variables
 
