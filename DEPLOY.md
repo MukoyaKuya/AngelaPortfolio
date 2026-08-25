@@ -1,6 +1,6 @@
 
 ## 1. Prepare Environment Variables
-
+ 
 Create a `.env.production` file (do NOT commit this) or keep these values ready for the deployment command:
 
 - `SECRET_KEY`: A long random string.
