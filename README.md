@@ -9,7 +9,7 @@ A modern, responsive portfolio website built with Django and Tailwind CSS to sho
 - **Interactive UI** - Flip cards, smooth animations, and hover effects
 - **HTMX Integration** - Dynamic page interactions without full page reloads
 - **Live Reload** - Development server with automatic browser refresh
-
+ 
 ## 🛠️ Tech Stack
 
 - **Backend:** Django 6.0
