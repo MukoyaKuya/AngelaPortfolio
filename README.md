@@ -1,7 +1,7 @@
 # Angela Andeo Portfolio
 
 A modern, responsive portfolio website built with Django and Tailwind CSS to showcase professional experience, skills, education, and certifications.
-   
+ 
 ##  Features 
  
 - **Dynamic Content Management** - Admin panel powered by Jazzmin for easy content updates
