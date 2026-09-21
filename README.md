@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with Django and Tailwind CSS to showcase professional experience, skills, education, and certifications.
   
-##  Features
+##  Features 
    
 - **Dynamic Content Management** - Admin panel powered by Jazzmin for easy content updates
 - **Responsive Design** - Mobile-first design with Tailwind CSS
